@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Hammad 👋
 
-<!--
-**HammadSaleemMunshi/HammadSaleemMunshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student at GUTECH  
+💻 Aspiring Software Engineer  
+🤖 Interested in Web Development & AI
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- C#
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Python
+- JavaScript
+- AI & Machine Learning
+- Software Development
+
+## 🔨 Projects
+
+- Personal Portfolio Website
+- WedFlow – Wedding Venue Booking System
+- AgentForge AI
+
+## 🎯 Goals
+
+I am focused on improving my programming skills, building real-world projects, gaining industry experience, and becoming a professional software engineer.
+
+## 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/hammad-saleem-munshi-813264389/
